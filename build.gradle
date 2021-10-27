@@ -1,0 +1,9 @@
+apply plugin: 'java'
+apply plugin: 'application'
+mainClassName = 'request.Main'
+group 'projeto.Main'
+sourceCompatibility = 1.8
+version = '1.0.0'
+
+
+
